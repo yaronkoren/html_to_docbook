@@ -71,7 +71,7 @@ my ($input, $output, $output_dir);
 my ($help, $quiet, $verbose, $debug);
 my ($params, $force);
 
-our $program_Date='$Date: 2007-05-19 12:55:08 +0200 (So, 19 máj 2007) $';
+our $program_Date='$Date: 2007-05-19 12:55:08 +0200 (So, 19 mÃ¡j 2007) $';
 our $program_Rev='$Rev: 235 $';
 our $program_Author='$Author: fordinal $';
 our $program_Id='$Id: docbook2odf 235 2007-05-19 10:55:08Z fordinal $';
